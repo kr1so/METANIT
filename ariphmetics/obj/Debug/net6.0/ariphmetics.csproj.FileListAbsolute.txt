@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C_task\ariphmetics\bin\Debug\net6.0\ariphmetics.exe
+C:\Users\User\Desktop\C_task\ariphmetics\bin\Debug\net6.0\ariphmetics.deps.json
+C:\Users\User\Desktop\C_task\ariphmetics\bin\Debug\net6.0\ariphmetics.runtimeconfig.json
+C:\Users\User\Desktop\C_task\ariphmetics\bin\Debug\net6.0\ariphmetics.dll
+C:\Users\User\Desktop\C_task\ariphmetics\bin\Debug\net6.0\ref\ariphmetics.dll
+C:\Users\User\Desktop\C_task\ariphmetics\bin\Debug\net6.0\ariphmetics.pdb
+C:\Users\User\Desktop\C_task\ariphmetics\obj\Debug\net6.0\ariphmetics.GlobalUsings.g.cs
+C:\Users\User\Desktop\C_task\ariphmetics\obj\Debug\net6.0\ariphmetics.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C_task\ariphmetics\obj\Debug\net6.0\ariphmetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C_task\ariphmetics\obj\Debug\net6.0\ariphmetics.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C_task\ariphmetics\obj\Debug\net6.0\ariphmetics.AssemblyInfo.cs
+C:\Users\User\Desktop\C_task\ariphmetics\obj\Debug\net6.0\ariphmetics.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C_task\ariphmetics\obj\Debug\net6.0\ariphmetics.dll
+C:\Users\User\Desktop\C_task\ariphmetics\obj\Debug\net6.0\ref\ariphmetics.dll
+C:\Users\User\Desktop\C_task\ariphmetics\obj\Debug\net6.0\ariphmetics.pdb
+C:\Users\User\Desktop\C_task\ariphmetics\obj\Debug\net6.0\ariphmetics.genruntimeconfig.cache
