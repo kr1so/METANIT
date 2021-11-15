@@ -17,9 +17,13 @@ System.Console.WriteLine(e); */
 //S1.3. Составить программу вывода на экран числа, вводимого с клавиатуры. 
 //Выводимому числу должно предшествовать сообщение «Вы ввели число».
 //----------------------------------------------------
-Console.Clear();
+/* Console.Clear();
 System.Console.WriteLine("Введите число");
 string? num = Console.ReadLine();
 System.Console.WriteLine("Вы ввели число");
-Console.Write(num); 
+Console.Write(num);  */
+//пример с использованием интерполяции строк
+/* Console.Write("Введите число - ");
+string? number = Console.ReadLine();
+Console.WriteLine($"Вы ввели число : {number}"); */
 //----------------------------------------------------
