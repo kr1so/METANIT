@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C_task\obj\Debug\net6.0\C_task.GlobalUsings.g.cs
+C:\Users\User\Desktop\C_task\obj\Debug\net6.0\C_task.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C_task\obj\Debug\net6.0\C_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C_task\obj\Debug\net6.0\C_task.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C_task\obj\Debug\net6.0\C_task.AssemblyInfo.cs
+C:\Users\User\Desktop\C_task\obj\Debug\net6.0\C_task.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C_task\bin\Debug\net6.0\C_task.exe
+C:\Users\User\Desktop\C_task\bin\Debug\net6.0\C_task.deps.json
+C:\Users\User\Desktop\C_task\bin\Debug\net6.0\C_task.runtimeconfig.json
+C:\Users\User\Desktop\C_task\bin\Debug\net6.0\C_task.dll
+C:\Users\User\Desktop\C_task\bin\Debug\net6.0\ref\C_task.dll
+C:\Users\User\Desktop\C_task\bin\Debug\net6.0\C_task.pdb
+C:\Users\User\Desktop\C_task\obj\Debug\net6.0\C_task.dll
+C:\Users\User\Desktop\C_task\obj\Debug\net6.0\ref\C_task.dll
+C:\Users\User\Desktop\C_task\obj\Debug\net6.0\C_task.pdb
+C:\Users\User\Desktop\C_task\obj\Debug\net6.0\C_task.genruntimeconfig.cache
