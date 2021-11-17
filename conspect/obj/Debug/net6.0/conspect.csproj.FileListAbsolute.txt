@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C_task\conspect\bin\Debug\net6.0\conspect.exe
+C:\Users\User\Desktop\C_task\conspect\bin\Debug\net6.0\conspect.deps.json
+C:\Users\User\Desktop\C_task\conspect\bin\Debug\net6.0\conspect.runtimeconfig.json
+C:\Users\User\Desktop\C_task\conspect\bin\Debug\net6.0\conspect.dll
+C:\Users\User\Desktop\C_task\conspect\bin\Debug\net6.0\ref\conspect.dll
+C:\Users\User\Desktop\C_task\conspect\bin\Debug\net6.0\conspect.pdb
+C:\Users\User\Desktop\C_task\conspect\obj\Debug\net6.0\conspect.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C_task\conspect\obj\Debug\net6.0\conspect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C_task\conspect\obj\Debug\net6.0\conspect.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C_task\conspect\obj\Debug\net6.0\conspect.AssemblyInfo.cs
+C:\Users\User\Desktop\C_task\conspect\obj\Debug\net6.0\conspect.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C_task\conspect\obj\Debug\net6.0\conspect.dll
+C:\Users\User\Desktop\C_task\conspect\obj\Debug\net6.0\ref\conspect.dll
+C:\Users\User\Desktop\C_task\conspect\obj\Debug\net6.0\conspect.pdb
+C:\Users\User\Desktop\C_task\conspect\obj\Debug\net6.0\conspect.genruntimeconfig.cache
