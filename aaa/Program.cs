@@ -32,10 +32,6 @@ System.Console.WriteLine();
         array_fill[i] = min + 1;
         i++;
     }
-    /* for(int i=0; i < length; i++)
-    {
-        array_fill[i] = min + 1;
-    } */
     return array_fill[i];
 }
 void Print_Array(int[] array_print)
@@ -47,7 +43,7 @@ void Print_Array(int[] array_print)
     }
 }
 Console.Clear();
-int[] number = new int [10];
+int[] number = new int [100];
 int min_Value = 2;
 Fill_Array(number, min_Value);
 int b = 0;
@@ -57,9 +53,9 @@ while ( (number[b] * number[b]) < number.Length)
     {
         if (number[b] == 2 || number[b] == 3 || number[b] == 5 || number[b] == 7)
         {
-        System.Console.WriteLine($"Это простое число{number[b]}");
-        }
+        System.Console.WriteLine($"Это простое число: {number[b]}");
+        b++;
+        } 
     }
-    b++;
 }
 Print_Array(number);
