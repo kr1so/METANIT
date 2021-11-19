@@ -1,4 +1,4 @@
-﻿int Fill_Array (int [] array_fill, int min) 
+﻿/* int Fill_Array (int [] array_fill, int min) 
 {
     int length = array_fill.Length;
     for(int i=0; i < length; i++)
@@ -20,17 +20,22 @@ int[] arrayA = new int [30];
 int min1 = 2;
 arrayA = Fill_Array(arrayA, min1);
 Print_Array(arrayA);
-//пример того как должен заполняться массив числами
-// мы вводим число n, которое по условию изначально равно min (2)
-//далее если квадрат этого числа делится без остатка на на min (то есть или оно кратно min) 
-//то мы выводим на консоль число n 
-// и увеличивает min на 1 шаг для дальнейших расчетов
-//заканчивается всё пока не закончатся числа в массиве
-for (int n = min*min; min < length; min ++)
+System.Console.WriteLine();
+ */
+Console.Clear();
+int[] number = {2,90};
+int n = 0;
+int a = number[n];
+int b = a*a;
+while ( b < number.Length)
 {
-    if (n%min==0)
+    for (int i = 0; i <= number.Length; i++)
     {
-        System.Console.WriteLine($"Все неподходящие нам числа: {n}");
+        if (number[i] == 2 || number[i] == 3 || number[i] == 5 || number[i] == 7)
+        {
+        System.Console.WriteLine($"Это простое число{number[i]}");
+        }
     }
+    n++;
 }
-//а вот как найти наоборот, подходящие? поменять условие на n%min==1?
+	
