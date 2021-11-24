@@ -140,7 +140,7 @@ int Method(int number)
         }
         return number;
     } */
-Console.Clear();
+/* Console.Clear();
 int Method(int result)
 {
     int[] A = new int [3];
@@ -153,5 +153,5 @@ int Method(int result)
     }
     return result;
 }
-System.Console.WriteLine(Method());
+System.Console.WriteLine(Method()); */
 
